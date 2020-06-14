@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "cate": "BAYI",
+        "pricebefore": "14.900",
+        "priceafter": "19.900",
+        "user": "938",
+        "fiture": "500 MB Disk Space , Unlimited Bandwidth , Unlimited Databases Domain ,Instant Backup, Unlimited SSL Gratis Selamanya"
+    },
+    {
+        "id": 2,
+        "cate": "PELAJAR",
+        "pricebefore": "46.900",
+        "priceafter": "23.450",
+        "user": "4.168",
+        "fiture": "500 MB Disk Space , Unlimited Bandwidth , Unlimited Databases Domain ,Instant Backup, Unlimited SSL Gratis Selamanya,Unlimited SSL Gratis Selamanya"
+    },
+    {
+        "id": 3,
+        "cate": "PERSONAL",
+        "pricebefore": "58.900",
+        "priceafter": "38.900",
+        "user": "10.017",
+        "fiture": "500 MB Disk Space , Unlimited Bandwidth , Unlimited Databases Domain ,Instant Backup, Unlimited SSL Gratis Selamanya, Unlimited SSL Gratis Selamanya, Private Name Server,  SpamAssasin Mail Protect"
+    },
+    {
+        "id": 4,
+        "cate": "BISNIS",
+        "pricebefore": "14.900",
+        "priceafter": "19.900",
+        "user": "938",
+        "fiture": "500 MB Disk Space , Unlimited Bandwidth , Unlimited Databases Domain ,Magic Auto Backup, Unlimited SSL Gratis Selamanya, Unlimited SSL Gratis Selamanya, Private Name Server,Prioritas Layanan Support, SpamExpert Pro Mail Protect"
+    }
+]
